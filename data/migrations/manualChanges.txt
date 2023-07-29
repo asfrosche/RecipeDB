@@ -1,0 +1,6 @@
+Change image for Kreplach (Chicken Dumplings) to be not the logo
+
+Migrations:
+- beef.sql: line 9
+- chicken.sql: line 192 - 223
+- pork.sql: line 113
