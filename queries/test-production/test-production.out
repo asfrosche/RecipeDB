@@ -1,0 +1,48 @@
+================================== R6 ==================================
+recipeId, name, cuisine, calories, time, instructions, imageName
+'21', 'Chicken Vesuvio', 'italian', '4228', '60', 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html', '1.jpg'
+'24', 'Catalan Chicken', 'french', '3900', '0', 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves', '4.jpg'
+'25', 'Chicken Stew', 'french', '1647', '70', 'https://food52.com/recipes/83097-chicken-stew', '5.jpg'
+'27', 'Persian Chicken', 'middle eastern', '4115', '0', 'http://www.bbcgoodfood.com/recipes/7343/', '7.jpg'
+'30', 'Roast Chicken', 'american', '2638', '0', 'http://www.sfgate.com/food/recipes/detail.html?rid=18229&sorig=qs', '10.jpg'
+'101', 'Katsu curry wrap', 'indian', '2677', '10', 'https://www.bbcgoodfood.com/recipes/katsu-curry-wrap', '101.jpg'
+'105', 'Silly Alligator Spinach Wrap', 'british', '522', '15', 'http://www.eatingwell.com/recipe/259074/silly-alligator-spinach-wrap/', '105.jpg'
+'114', 'Buffalo Chicken Salad', 'american', '3260', '10', 'http://www.delish.com/cooking/recipe-ideas/recipes/a23965/buffalo-chicken-salad/', '114.jpg'
+'117', 'Buffalo Chicken Salad recipes', 'american', '3260', '10', 'http://www.goodhousekeeping.com/food-recipes/a3338/buffalo-chicken-salad/', '117.jpg'
+'118', 'Chicken Salad With Mango & Basil', 'american', '1940', '0', 'http://www.sfgate.com/food/recipes/detail.html?rid=14131&sorig=qs', '118.jpg'
+'120', 'Chicken taco salad', 'mexican', '533', '10', 'http://www.bbcgoodfood.com/recipes/chicken-taco-salad', '120.jpg'
+'134', 'Black Bean and Feta Stuffed Burrito', 'mexican', '2902', '60', 'https://www.realsimple.com/food-recipes/browse-all-recipes/black-bean-feta-stuffed-burrito', '134.jpg'
+
+
+================================== R7 ==================================
+recipeId, name, cuisine, calories, time, instructions, imageName
+'21', 'Chicken Vesuvio', 'italian', '4228', '60', 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html', '1.jpg'
+
+
+================================== R8 ==================================
+recipeId, name, cuisine, calories, time, instructions, imageName
+'1', 'Roast sirloin of beef', 'american', '2120', '160', 'https://www.bbcgoodfood.com/recipes/roast-sirloin-beef', '11.jpg'
+'2', 'Beef Tea', 'mediterranean', '514', '0', 'https://www.epicurious.com/recipes/food/views/beef-tea-395253', '12.jpg'
+'3', 'Beef Tacos', 'mexican', '1871', '0', 'http://norecipes.com/blog/2009/05/28/beef-tacos-recipe/', '13.jpg'
+'4', 'Beef Brisket', 'british', '2466', '0', 'http://simplyrecipes.com/recipes/beef_brisket/', '14.jpg'
+'5', 'Barbecued Beef Brisket', 'american', '11443', '0', 'http://www.saveur.com/article/Recipes/Barbecued-Beef-Brisket', '15.jpg'
+'6', 'Portabello Beef Stew', 'french', '943', '195', 'https://food52.com/recipes/14484-portabello-beef-stew', '16.jpg'
+'7', 'Pioneer Woman�s Beef Brisket', 'british', '12911', '0', 'http://thepioneerwoman.com/cooking/2007/06/brisket_baby/', '17.jpg'
+'8', 'Beef Goulash', 'american', '8441', '218', 'http://www.marthastewart.com/350032/beef-goulash', '18.jpg'
+'9', 'Beef stew', 'american', '1683', '0', 'http://www.jamieoliver.com/recipes/beef-recipes/beef-stew/', '19.jpg'
+'10', 'Beef and Noodles recipes', 'asian', '1060', '75', 'http://www.chezus.com/2009/04/04/beef-and-noodles/', '20.jpg'
+
+
+================================== R9 ==================================
+recipeId, name, cuisine, calories, time, instructions, imageName, recipeId, ar
+'1', 'Roast sirloin of beef', 'american', '2120', '160', 'https://www.bbcgoodfood.com/recipes/roast-sirloin-beef', '11.jpg', '1', '5.0000'
+'5', 'Barbecued Beef Brisket', 'american', '11443', '0', 'http://www.saveur.com/article/Recipes/Barbecued-Beef-Brisket', '15.jpg', '5', '4.5000'
+'21', 'Chicken Vesuvio', 'italian', '4228', '60', 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html', '1.jpg', '21', '4.3333'
+
+
+================================== R10 ==================================
+
+
+================================== R11 ==================================
+value
+'4'
